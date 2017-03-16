@@ -1,0 +1,2 @@
+export const START_FETCH_FOOD = 'START_FETCH_FOOD'
+export const FETCH_FOOD_DATA = 'FETCH_FOOD_DATA'
