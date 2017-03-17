@@ -1,6 +1,13 @@
 # FoodStuff
 **A broken app to demonstrate side effect, available [here](https://foodstuff.surge.sh/)**
 
+This demo is made for a [presentation](http://redux-obs-prez.surge.sh/#/) over side effects in redux.
+
+You can search for **pizza** or **sushi** here.
+
+The catch is ```pizza will take 9 sec``` and ```sushi will take 2 secs```, so potentially one request can finish in between another one causing side effcets.
+
+
 ## Folder Structure
 ```
 /
